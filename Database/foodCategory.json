@@ -1,11 +1,50 @@
 [
     {
-        "CategoryName": "Biryani/Rice"
+        "CategoryName": "Momos"
     },
     {
-        "CategoryName": "Starter"
+        "CategoryName": "Delhi Wali Special Soya Chaap"
     },
     {
         "CategoryName": "Pizza"
+    },
+    {
+        "CategoryName": "Pasta"
+    },
+    {
+        "CategoryName": "Rolls & Wraps"
+    },
+    {
+        "CategoryName": "Sandwiches"
+    },
+    {
+        "CategoryName": "Soup & Thupka"
+    },
+    {
+        "CategoryName": "Burger"
+    },
+    {
+        "CategoryName": "Rice & Noodles"
+    },
+    {
+        "CategoryName": "Indian Starter"
+    },
+    {
+        "CategoryName": "Indian Main Course"
+    },
+    {
+        "CategoryName": "Indian Rice"
+    },
+    {
+        "CategoryName": "Breads"
+    },
+    {
+        "CategoryName": "Combos"
+    },
+    {
+        "CategoryName": "Paratha"
+    },
+    {
+        "CategoryName": "Chillers & Shakes"
     }
 ]

@@ -1,0 +1,1261 @@
+[
+    {
+        "CategoryName": "Momos",
+        "name": "Chicken Multani Momos",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "150"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Cheese Afgani Momos",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "150"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Cheese Momos In Noodles",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "140"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Cheese White Gravy Momos",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "140"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Cheese Spicy Chilli Gravy Momos",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "140"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Cheese Honey Chilli Momos",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "140"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Paneer Multani Momos",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "140"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Paneer Afgani Momos",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "140"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Delhi Wali Special Soya Chaap",
+        "name": "Kali Mirch Chaap",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "140"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Delhi Wali Special Soya Chaap",
+        "name": "Multani Chaap",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "130"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Delhi Wali Special Soya Chaap",
+        "name": "Malai Chaap",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "130"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Delhi Wali Special Soya Chaap",
+        "name": "Afgani Chaap",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "130"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Delhi Wali Special Soya Chaap",
+        "name": "Lemon Chaap",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "130"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Delhi Wali Special Soya Chaap",
+        "name": "Achari Chaap",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "130"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Delhi Wali Special Soya Chaap",
+        "name": "Chaap Tikka Shashlik",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "120"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Delhi Wali Special Soya Chaap",
+        "name": "Chilli Chaap Chinese Style",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "120"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Veg Maxican Pizza",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Regular": "120",
+                "Medium": "180",
+                "Large": "250"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Peri Peri Paneer Pizza",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Regular": "120",
+                "Medium": "180",
+                "Large": "250"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Paneer Tikka Pizza",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Regular": "120",
+                "Medium": "180",
+                "Large": "250"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Peppy Paneer Pizza",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Regular": "120",
+                "Medium": "180",
+                "Large": "250"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Cheese N Corn Pizza",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Regular": "120",
+                "Medium": "180",
+                "Large": "250"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "OTC Pizza",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Regular": "120",
+                "Medium": "180",
+                "Large": "250"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Margherita Pizza",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Regular": "120",
+                "Medium": "180",
+                "Large": "250"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Spicy Paneer Pizza",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Regular": "120",
+                "Medium": "180",
+                "Large": "250"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Pasta",
+        "name": "Veg Pink Sauce Pasta",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "100",
+                "Full": "200"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Pasta",
+        "name": "Veg White Sauce Pasta",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "100",
+                "Full": "200"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Pasta",
+        "name": "Veg Red Sauce Pasta",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "100",
+                "Full": "200"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Pasta",
+        "name": "Veg Makhani Pasta",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "100",
+                "Full": "200"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Mushroom Roll",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Classic Paneer Kathi Roll",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "80"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Tandoori Spring Roll",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "80"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Paneer N Vegetable Roll",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "70"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Sandwiches",
+        "name": "Chocolate Sandwiches",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "100"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Sandwiches",
+        "name": "Grilled Paneer Sandwiches",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "70"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Sandwiches",
+        "name": "Grilled Cheese Sandwiches",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "70"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Sandwiches",
+        "name": "Veg Grilled Club Sandwiches",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "70"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Sandwiches",
+        "name": "Veg Grilled Sandwiches",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "30",
+                "Full": "60"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Sandwiches",
+        "name": "Potato Filled Sandwiches",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "30",
+                "Full": "50"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Soup & Thupka",
+        "name": "Veg Thupka",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "70"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Soup & Thupka",
+        "name": "Veg Hot & Sour Soup",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "70"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Soup & Thupka",
+        "name": "Veg Lemon And Corriander Soup",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "70"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Soup & Thupka",
+        "name": "Veg Manchow Soup",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "100"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Double Cheez Burger",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "70"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Veg Peri Peri Burger",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "70"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Paneer Cheez Burger",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "60"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Aloo Tikki Burger",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "50"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Rice & Noodles",
+        "name": "Veg Indonesia Rice",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "110"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Rice & Noodles",
+        "name": "Veg Singapore Rice",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "110"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Rice & Noodles",
+        "name": "Veg Fried Rice",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Rice & Noodles",
+        "name": "Veg Garlic Rice",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Rice & Noodles",
+        "name": "Veg Soya Garlic Noodles",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "100"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Rice & Noodles",
+        "name": "Veg Chowmein",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Rice & Noodles",
+        "name": "Veg Hakka Noodles",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "80"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Rice & Noodles",
+        "name": "Veg Chilli Garlic Noodles",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "80"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Starter",
+        "name": "Achari Chaap Roll",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Starter",
+        "name": "Multni Chaap Roll",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Starter",
+        "name": "Tandoori Chaap Roll",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Starter",
+        "name": "Afgani Chaap Roll",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Starter",
+        "name": "Paneer Tikka",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Starter",
+        "name": "Malai Paneer Tikka",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Chole Masala",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "100"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Rajma Masala",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "100"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Jeera Aloo",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Aloo Pyaaz",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Aloo Gobhi Masala",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Dal Tadka",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "70"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Daal Makhni",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "100"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Handi Paneer",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "160"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Kadhai Paneer",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "160"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Paneer Lababdar",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "160"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Paneer Khurchan",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "160"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Matar Paneer",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "160"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Lahori Paneer Masala",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "160"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Sahi Paneer",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "160"
+            }
+        ]
+    },  
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Malai Kofta",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "100"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Masala Chaap Nawabi",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "120"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Masala Chaap Gravy",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "120"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Paneer Nawabi",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "160"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Begunjaan Paneer",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "160"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Main Course",
+        "name": "Dum Aloo Kashmiri",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "120"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Raita",
+        "name": "Handi Paneer",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "30",
+                "Full": "50"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Rice",
+        "name":"Veg Biryani",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "110"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Rice",
+        "name":"Veg Pulao",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "110"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Rice",
+        "name":"Jeera Rice",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "110"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Indian Rice",
+        "name":"Matar Pulao",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "110"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Breads",
+        "name":"Malabari Paratha",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "40"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Breads",
+        "name":"Garlic Naan",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "40"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Breads",
+        "name":"Laccha Paratha",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "30"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Breads",
+        "name":"Butter Naan",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "30"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Breads",
+        "name":"Butter Rumali Roti",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "25"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Breads",
+        "name":"Rumali Roti",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "20"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Breads",
+        "name":"Butter Tandoori Roti",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "18"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Breads",
+        "name":"Tandoori Roti",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "15"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Combos",
+        "name":"Veg Manchurian With Fried Rice",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "120"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Combos",
+        "name":"Paneer Amritsari Naan With Raita & Chole",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "120"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Combos",
+        "name":"Amritsari Naan With Raita & Chole",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "100"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Combos",
+        "name":"Chole & Laccha Paratha (2 Pcs)",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "80"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Combos",
+        "name":"Rajma Chawal",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "80"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Combos",
+        "name":"Chole Chawal",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "80"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Paratha",
+        "name":"Mix Veg Paratha",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "60"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Paratha",
+        "name":"Paneer Paratha",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "50"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Paratha",
+        "name":"Aloo Paratha",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "30"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Paratha",
+        "name":"Aloo Pyaaz Paratha",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "40"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Virgin Mojito",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "40"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Strawberry Mojito",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "50"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Watermelon Mojito",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "50"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Litchi Mojito",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "50"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Lemon Mint Ice Tea",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "50"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Masala Lemonade",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "50"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Chocolate Brownie Shake",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "80"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Kitkat Shake",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "70"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Cold Coffee",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "50"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Chocolate Shake",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "60"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Oreo Shake",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "50"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Vanilla Shake",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "50"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Banana Shake",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "40"
+            }
+        ]
+    },
+    {
+        "CategoryName": "Chillers & Shakes",
+        "name":"Papaya Shake",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Full": "40"
+            }
+        ]
+    }
+]
