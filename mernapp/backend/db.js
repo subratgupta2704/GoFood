@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 async function fetchFoodData() {
   try {
     await mongoose.connect(
-      "mongodb+srv://subratgupta2704:Theshield123@cluster0.fwifmm6.mongodb.net/gofoodmern?retryWrites=true&w=majority",
+      "mongodb+srv://subratgupta2704:Theshield12345@cluster0.fwifmm6.mongodb.net/gofoodmern?retryWrites=true&w=majority",
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,
