@@ -24,3 +24,7 @@ async function fetchFoodData() {
 }
 
 module.exports = fetchFoodData;
+
+
+
+

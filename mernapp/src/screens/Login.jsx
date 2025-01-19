@@ -37,40 +37,78 @@ export default function Login() {
     setcredentials({ ...credentials, [event.target.name]: event.target.value });
   };
   return (
-    <div>
-      <div className="container">
+    <div
+      style={{
+        backgroundColor: "#8EC3B0",
+        height: "100vh",
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+      }}
+    >
+      <div
+        className="container"
+        style={{
+          backgroundColor: "#1B4242",
+          width: "400px",
+          height: "315px",
+          padding: "20px",
+          borderRadius: "10px",
+          zIndex: 1,
+        }}
+      >
         <form onSubmit={handleSubmit}>
           <div className="mb-3">
-            <label htmlFor="exampleInputEmail1" className="form-label">
+            <h1 style={{ textAlign: "center", color: "#677D6A" }}>
+              {" "}
+              !! Log In !!
+            </h1>
+            <label
+              htmlFor="exampleInputEmail1"
+              className="form-label"
+              style={{ color: "#ECF4D6", fontWeight: "bold" }}
+            >
               Email address
             </label>
             <input
               type="email"
               className="form-control"
               name="email"
+              placeholder="Enter email"
               value={credentials.email}
               onChange={onChange}
               id="exampleInputEmail1"
               aria-describedby="emailHelp"
             />
-            <div id="emailHelp" className="form-text">
-              We'll never share your email with anyone else.
-            </div>
           </div>
           <div className="mb-3">
-            <label htmlFor="exampleInputPassword1" className="form-label">
+            <label
+              htmlFor="exampleInputPassword1"
+              className="form-label"
+              style={{ color: "#ECF4D6", fontWeight: "bold" }}
+            >
               Password
             </label>
             <input
               type="password"
               className="form-control"
               name="password"
+              placeholder="Enter your Password"
               value={credentials.password}
               onChange={onChange}
               id="exampleInputPassword1"
             />
           </div>
-          <button type="submit" className="m-3 btn btn-success">
+          <button
+            type="submit"
+            className="btn"
+            style={{
+              color: "#003C43",
+              backgroundColor: "#5C8374",
+              fontWeight: "bold",
+              width: "100%",
+            }}
+          >
             Submit
           </button>
         </form>

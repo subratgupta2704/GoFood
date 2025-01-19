@@ -10,7 +10,7 @@ export default function MyOrder() {
     if (userEmail) {
       try {
         const response = await fetch(
-          "http://localhost:5000/api/auth/myOrderData",
+          "http://localhost:5000/api/auth/OrderData",
           {
             method: "POST",
             headers: {

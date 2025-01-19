@@ -10,17 +10,20 @@ export default function Navbar() {
   let data = useCart();
   const handleLogout = () => {
     localStorage.removeItem("authToken");
-    navigate("/login");
+    navigate("/");
   };
 
   return (
     <div className="navbar-container">
-      <nav className="navbar navbar-expand-lg navbar-dark">
+      <nav
+        className="navbar navbar-expand-lg navbar-dark"
+        style={{ backgroundColor: "#77B0AA", height: "60px" }}
+      >
         <div className="container-fluid">
           <Link
             className="navbar-brand fst-italic fs-2"
             to="/"
-            style={{ color: "#F1F6F9", fontWeight: "bold" }}
+            style={{ color: "#16423C", fontWeight: "bold" }}
           >
             Go Food
           </Link>
@@ -36,11 +39,15 @@ export default function Navbar() {
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse" id="navbarNav">
-            <ul className="navbar-nav me-auto mb-2">
+            <ul className="navbar-nav me-auto">
               <li className="nav-item">
                 <Link
                   className="nav-link active"
-                  style={{ color: "#F1F6F9", fontWeight: "bold" }}
+                  style={{
+                    color: "#16423C",
+                    fontWeight: "bold",
+                    fontSize: "20px",
+                  }}
                   aria-current="page"
                   to="/"
                 >
@@ -51,7 +58,11 @@ export default function Navbar() {
                 <li className="nav-item">
                   <Link
                     className="nav-link active"
-                    style={{ color: "#F1F6F9", fontWeight: "bold" }}
+                    style={{
+                      color: "#16423C",
+                      fontWeight: "bold",
+                      fontSize: "20px",
+                    }}
                     aria-current="page"
                     to="/myOrder"
                   >
@@ -65,15 +76,23 @@ export default function Navbar() {
             {!localStorage.getItem("authToken") ? (
               <div className="d-flex">
                 <Link
-                  className="btn bg-white text-success mx-1"
-                  style={{ color: "#F1F6F9", fontWeight: "bold" }}
+                  className="btn mx-1"
+                  style={{
+                    color: "#DEF5E5",
+                    fontWeight: "bold",
+                    backgroundColor: "#16423C",
+                  }}
                   to="/login "
                 >
                   Login
                 </Link>
                 <Link
-                  className="btn bg-white text-success mx-1"
-                  style={{ color: "#F1F6F9", fontWeight: "bold" }}
+                  className="btn mx-1"
+                  style={{
+                    color: "#DEF5E5",
+                    fontWeight: "bold",
+                    backgroundColor: "#16423C",
+                  }}
                   to="/createuser "
                 >
                   SignUp
@@ -82,14 +101,21 @@ export default function Navbar() {
             ) : (
               <div>
                 <div
-                  className="btn bg-white text-success mx-1"
-                  style={{ color: "#F1F6F9", fontWeight: "bold" }}
+                  className="btn mx-1"
+                  style={{
+                    color: "#DEF5E5",
+                    fontWeight: "bold",
+                    backgroundColor: "#16423C",
+                  }}
                   onClick={() => {
                     setCartView(true);
                   }}
                 >
                   Cart {"  "}
-                  <Badge pill bg="danger">
+                  <Badge
+                    pill
+                    className="bg-danger"
+                  >
                     {data.length}
                   </Badge>
                 </div>
@@ -101,8 +127,12 @@ export default function Navbar() {
                   ></Modal>
                 ) : null}
                 <div
-                  className="btn bg-white text-success mx-1"
-                  style={{ color: "#F1F6F9", fontWeight: "bold" }}
+                  className="btn mx-1"
+                  style={{
+                    color: "#DEF5E5",
+                    fontWeight: "bold",
+                    backgroundColor: "#16423C",
+                  }}
                   onClick={handleLogout}
                 >
                   Log Out

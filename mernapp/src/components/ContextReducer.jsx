@@ -19,32 +19,23 @@ const reducer = (state, action) => {
       ];
 
     case "REMOVE":
-      let newArr = [...state];
-      newArr.splice(action.index, 1);
+      const newArr = state.filter((_, index) => index !== action.index); // Better index check
       return newArr;
+
     case "UPDATE":
-      let arr = [...state];
-      arr.find((food, index) => {
-        if (food.id === action.id) {
-          console.log(
-            food.qty,
-            parseInt(action.qty),
-            action.price + food.price
-          );
-          arr[index] = {
-            ...food,
-            qty: parseInt(action.qty) + food.qty,
-            price: action.price + food.price,
-          };
-        }
-        return arr;
-      });
-      return arr;
+      const updatedArr = state.map((food) =>
+        food.id === action.id
+          ? { ...food, qty: food.qty + action.qty, price: food.price + action.price }
+          : food
+      );
+      return updatedArr;
+
     case "DROP":
-      let empArray = [];
-      return empArray;
+      return []; // Empty the cart
+
     default:
-      console.log("Error in Reducer");
+      console.error("Unhandled action type:", action.type); // Better error handling
+      return state;
   }
 };
 

@@ -25,7 +25,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="home-container">
+    <div className="home-container" style={{ backgroundColor: "#8EC3B0" }}>
       <div>
         <Navbar />
       </div>
@@ -58,7 +58,7 @@ export default function Home() {
           </div>
           <div className="carousel-item active">
             <img
-              src="https://source.unsplash.com/random/900x700/?burger"
+              src="https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               className="d-block w-100"
               style={{ filter: "brightness(30%)" }}
               alt="..."
@@ -66,7 +66,7 @@ export default function Home() {
           </div>
           <div className="carousel-item">
             <img
-              src="https://source.unsplash.com/random/900x700/?pizza"
+              src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=1981&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               className="d-block w-100"
               style={{ filter: "brightness(30%)" }}
               alt="..."
@@ -74,7 +74,7 @@ export default function Home() {
           </div>
           <div className="carousel-item">
             <img
-              src="https://source.unsplash.com/random/900x700/?momos"
+              src="https://media.istockphoto.com/id/1147321403/photo/sandwich-with-cheese-tomato-cucumber-sausage-and-salad-on-wooden-background-horizontal.jpg?s=2048x2048&w=is&k=20&c=JYhPlfaNpQSo3Vy0yBgsHqfbIZfP8jG9ZlSQR-k-uSM="
               className="d-block w-100"
               style={{ filter: "brightness(30%)" }}
               alt="..."
@@ -110,11 +110,15 @@ export default function Home() {
         {foodCat.length !== 0 ? (
           foodCat.map((data) => {
             return (
-              <div className="row mb-3">
+              <div
+                className="row mb-3"
+                style={{ color: "#16423C", fontWeight: "bolder" }}
+              >
                 <div key={data._id} className="fs-3 m-3">
                   {data.CategoryName}
                 </div>
-                <hr />
+                <hr style={{ border: "1px solid black", margin: "10px 0" }} />
+
                 {foodItem.length !== 0 ? (
                   foodItem
                     .filter(
