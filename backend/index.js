@@ -1,5 +1,6 @@
 const path = require("path");
 const express = require("express");
+const cors = require("cors");
 const app = express();
 const port = 5000;
 const mongoDB = require("./db");
@@ -7,15 +8,13 @@ const mongoDB = require("./db");
 // Connect to MongoDB
 mongoDB();
 
-// Set up CORS headers
-app.use((req, res, next) => {
-  res.setHeader("Access-Control-Allow-Origin", "http://localhost:3000");
-  res.header(
-    "Access-Control-Allow-Headers",
-    "Origin, X-Requested-With, Content-Type, Accept"
-  );
-  next();
-});
+// Set up CORS headers using `cors` middleware
+app.use(cors({
+  origin: ["http://localhost:3000", "https://gofood-bt3j.onrender.com"], // Allowed origins
+  methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"], // Allowed methods
+  allowedHeaders: ["Origin", "X-Requested-With", "Content-Type", "Accept"], // Allowed headers
+  credentials: true, // If cookies or auth headers are needed
+}));
 
 // Parse JSON requests
 app.use(express.json());
