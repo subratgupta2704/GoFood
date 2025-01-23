@@ -19,7 +19,13 @@ export default function Cart() {
   const handleCheckOut = async () => {
     let userEmail = localStorage.getItem("userEmail");
 
-    let response = await fetch("http://localhost:5000/api/orderData", {
+    // Use a dynamic base URL
+    const baseURL =
+      process.env.NODE_ENV === "development"
+        ? "http://localhost:5000"
+        : "https://gofood-bt3j.onrender.com";
+
+    let response = await fetch(`${baseURL}/api/orderData`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

@@ -11,22 +11,38 @@ export default function SignUp() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const response = await fetch("http://localhost:5000/api/createuser", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        name: credentials.name,
-        email: credentials.email,
-        password: credentials.password,
-        location: credentials.location,
-      }),
-    });
-    const json = await response.json();
-    console.log(json);
-    if (!json.success) {
-      alert("Enter Valid Credentials");
+
+    // Dynamic base URL
+    const baseURL =
+      process.env.NODE_ENV === "development"
+        ? "http://localhost:5000"
+        : "https://gofood-bt3j.onrender.com";
+
+    try {
+      const response = await fetch(`${baseURL}/api/createuser`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          name: credentials.name,
+          email: credentials.email,
+          password: credentials.password,
+          location: credentials.location,
+        }),
+      });
+
+      const json = await response.json();
+      console.log(json);
+
+      if (!json.success) {
+        alert("Enter valid credentials");
+      } else {
+        alert("Account created successfully! Please log in.");
+      }
+    } catch (error) {
+      console.error("Error during sign-up:", error);
+      alert("Something went wrong. Please try again later.");
     }
   };
 
@@ -58,11 +74,10 @@ export default function SignUp() {
           <form onSubmit={handleSubmit}>
             <div className="mb-3">
               <h1 style={{ textAlign: "center", color: "#677D6A" }}>
-                {" "}
                 !! Register Here !!
               </h1>
               <label
-                htmlFor="exampleInputEmail1"
+                htmlFor="name"
                 className="form-label"
                 style={{ color: "#ECF4D6", fontWeight: "bold" }}
               >
@@ -80,7 +95,7 @@ export default function SignUp() {
             </div>
             <div className="mb-3">
               <label
-                htmlFor="exampleInputEmail1"
+                htmlFor="email"
                 className="form-label"
                 style={{ color: "#ECF4D6", fontWeight: "bold" }}
               >
@@ -93,7 +108,7 @@ export default function SignUp() {
                 placeholder="Email Address"
                 value={credentials.email}
                 onChange={onChange}
-                id="exampleInputEmail1"
+                id="email"
                 aria-describedby="emailHelp"
                 style={{ backgroundColor: "#272829", color: "#FFF6E0" }}
               />
@@ -107,7 +122,7 @@ export default function SignUp() {
             </div>
             <div className="mb-3">
               <label
-                htmlFor="exampleInputPassword1"
+                htmlFor="password"
                 className="form-label"
                 style={{ color: "#ECF4D6", fontWeight: "bold" }}
               >
@@ -120,13 +135,13 @@ export default function SignUp() {
                 value={credentials.password}
                 placeholder="Create a password"
                 onChange={onChange}
-                id="exampleInputPassword1"
+                id="password"
                 style={{ backgroundColor: "#272829", color: "#FFF6E0" }}
               />
             </div>
             <div className="mb-3">
               <label
-                htmlFor="exampleInputPassword1"
+                htmlFor="location"
                 className="form-label"
                 style={{ color: "#ECF4D6", fontWeight: "bold" }}
               >
@@ -139,7 +154,7 @@ export default function SignUp() {
                 placeholder="Address"
                 value={credentials.location}
                 onChange={onChange}
-                id="exampleInputPassword1"
+                id="location"
                 style={{ backgroundColor: "#272829", color: "#FFF6E0" }}
               />
             </div>

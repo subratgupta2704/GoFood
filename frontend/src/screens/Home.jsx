@@ -7,13 +7,21 @@ export default function Home() {
   const [search, setSearch] = useState("");
   const [foodCat, setFoodCat] = useState([]);
   const [foodItem, setFoodItem] = useState([]);
+
   const loadData = async () => {
-    let response = await fetch("http://localhost:5000/api/foodData", {
+    // Use a dynamic base URL
+    const baseURL =
+      process.env.NODE_ENV === "development"
+        ? "http://localhost:5000"
+        : "https://gofood-bt3j.onrender.com";
+
+    let response = await fetch(`${baseURL}/api/foodData`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
       },
     });
+
     response = await response.json();
     setFoodItem(response[0]);
     setFoodCat(response[1]);
@@ -48,12 +56,6 @@ export default function Home() {
                   setSearch(e.target.value);
                 }}
               />
-              {/* <button
-                className="btn btn-outline-success text-white bg-success"
-                type="submit"
-              >
-                Search
-              </button> */}
             </div>
           </div>
           <div className="carousel-item active">
@@ -118,7 +120,6 @@ export default function Home() {
                   {data.CategoryName}
                 </div>
                 <hr style={{ border: "1px solid black", margin: "10px 0" }} />
-
                 {foodItem.length !== 0 ? (
                   foodItem
                     .filter(
